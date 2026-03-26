@@ -1,0 +1,15 @@
+<resources>
+    <string-array name="sampling_interval_options">
+        <item>1 秒</item>
+        <item>3 秒</item>
+        <item>5 秒</item>
+        <item>10 秒</item>
+    </string-array>
+
+    <string-array name="transport_priority_options">
+        <item>优先蓝牙</item>
+        <item>优先 Wi-Fi</item>
+        <item>自动选择</item>
+    </string-array>
+</resources>
+

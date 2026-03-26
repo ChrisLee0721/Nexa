@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@+id/nav_connection"
+        android:title="@string/nav_connection" />
+    <item
+        android:id="@+id/nav_link_settings"
+        android:title="@string/nav_link_settings" />
+    <item
+        android:id="@+id/nav_weather"
+        android:title="@string/nav_weather" />
+    <item
+        android:id="@+id/nav_settings_page"
+        android:title="@string/menu_settings" />
+    <item
+        android:id="@+id/nav_preview_page"
+        android:title="@string/menu_preview" />
+</menu>
+
